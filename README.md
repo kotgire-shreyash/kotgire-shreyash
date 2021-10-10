@@ -1,7 +1,6 @@
 - 👋 Hi, I’m shreyash kotgire
 - 👀 I’m interested in Product and software deveoplement
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m good with android app developement ( Flutter ) , Cloud (AWS,Firebase,GCP), SDE
 - 📫 U can reach me at Kotgireshreyash@gmail.com
 
 <!---
