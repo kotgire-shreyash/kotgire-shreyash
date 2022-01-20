@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shreyash kotgire
-- 👀 I’m interested in Product and software deveoplement
+- 👀 I’m interested in Product and software developement
 - 🌱 I’m good with android app developement ( Flutter ) 
 - ☁  Cloud - AWS(EC2,RDS,AMPLIFY)  FIREBASE
 - 📫 U can reach me at Kotgireshreyash@gmail.com
